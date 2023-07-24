@@ -1,5 +1,8 @@
 # vue-firebase-crud-app
 
+### Complete Tutorial
+See [Vue 2 Firebase: Build Vue CRUD App with Cloud Firestore](https://www.positronx.io/vue-js-firebase-build-vue-crud-app-with-cloud-firestore/).
+
 ## Project setup
 ```
 npm install
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
